@@ -131,7 +131,7 @@ Prediction: Ham
 
 ## Author
 Amirhossein Amin Moghaddam
-Master's Student in Computer Software Engineering at Iran University of Science and Technology (IUST)
+Master's Student of Computer Software Engineering at Iran University of Science and Technology (IUST)
 
 Text Mining Course  
 March 2025
