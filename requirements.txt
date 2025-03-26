@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+nltk
+pyarrow
+fsspec
+huggingface_hub
