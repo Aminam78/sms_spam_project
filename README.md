@@ -6,7 +6,7 @@ This project implements an automated system to classify SMS messages into two ca
 
 ## Project Structure
 
-
+```bash
 sms_spam_project/
 │
 ├── data/
@@ -23,6 +23,7 @@ sms_spam_project/
 ├── requirements.txt          # List of dependencies
 │
 └── README.md                 # Project documentation
+```
 
 
 ## Installation
